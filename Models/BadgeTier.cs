@@ -9,8 +9,8 @@ namespace G_NET_84_EF02.Models
     internal enum BadgeTier
     {
         #region BadgeTier
-        Standard = 1,
-        VIP = 2
+        //Standard = 1,
+        //VIP = 2
         #endregion
     }
 }
